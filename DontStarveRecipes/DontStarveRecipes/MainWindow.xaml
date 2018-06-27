@@ -1,0 +1,59 @@
+﻿<Window x:Class="DontStarveRecipes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="530" Width="656">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="258*"/>
+            <ColumnDefinition Width="259*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="cmbxIngredients" HorizontalAlignment="Left" Margin="113,10,0,0" VerticalAlignment="Top" Width="120" Height="22" RenderTransformOrigin="0.475,-0.364" >
+            <ComboBoxItem Content="All"/>
+            <ComboBoxItem Content="Dairy"/>
+            <ComboBoxItem Content="Egg"/>
+            <ComboBoxItem Content="Fish"/>
+            <ComboBoxItem Content="Meat"/>
+            <ComboBoxItem Content="Fruit"/>
+            <ComboBoxItem Content="Veg"/>
+
+        </ComboBox>
+
+        <ListBox x:Name="lstbxRecipes" HorizontalAlignment="Left" Height="426" Margin="10,64,0,0" VerticalAlignment="Top" Width="628" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnSort" Content="Basic Sort" HorizontalAlignment="Left" Margin="238,10,0,0" VerticalAlignment="Top" Width="75" Click="btnSort_click"/>
+        <ComboBox x:Name="cmbxSpecIngredients" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="120" Height="22" RenderTransformOrigin="0.475,-0.364" Grid.Column="1">
+            <ComboBoxItem Content="All"/>
+            <ComboBoxItem Content="Birchnut"/>
+            <ComboBoxItem Content="Butterfly"/>
+            <ComboBoxItem Content="Flower"/>
+            <ComboBoxItem Content="Honey"/>
+            <ComboBoxItem Content="Ice"/>
+            <ComboBoxItem Content="Mandrake"/>
+            <ComboBoxItem Content="Stick"/>
+
+        </ComboBox>
+        <Button x:Name="btnSpecSort" Content="Spec. Sort" HorizontalAlignment="Left" Margin="135,10,0,0" VerticalAlignment="Top" Width="101" Click="btnSpecSort_Click" Grid.Column="1"/>
+        <ComboBox x:Name="cmbxMeatDairyIngredients" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="120" Height="22" RenderTransformOrigin="0.475,-0.364" Grid.Column="1" Visibility="Hidden">
+            <ComboBoxItem Content="All"/>
+            <ComboBoxItem Content="Butter"/>
+            <ComboBoxItem Content="Eel"/>
+            <ComboBoxItem Content="Frog"/>
+            <ComboBoxItem Content="Mole"/>
+
+        </ComboBox>
+        <ComboBox x:Name="cmbxVegFruitIngredients" HorizontalAlignment="Left" Margin="113,37,0,0" VerticalAlignment="Top" Width="120" Height="22" RenderTransformOrigin="0.475,-0.364" Visibility="Hidden" >
+            <ComboBoxItem Content="All"/>
+            <ComboBoxItem Content="Berry"/>
+            <ComboBoxItem Content="Cactus"/>
+            <ComboBoxItem Content="Corn"/>
+            <ComboBoxItem Content="Dragonfruit"/>
+            <ComboBoxItem Content="Durian"/>
+            <ComboBoxItem Content="Eggplant"/>
+            <ComboBoxItem Content="Lichen"/>
+            <ComboBoxItem Content="Pumpkin"/>
+            <ComboBoxItem Content="Watermelon"/>
+
+        </ComboBox>
+        <Button x:Name="btnMeatDairySort" Content="Meat/Dairy" HorizontalAlignment="Left" Margin="135,37,0,0" VerticalAlignment="Top" Width="101" Click="btnMeatDairySort_Click" Grid.Column="1" Visibility="Hidden"/>
+        <Button x:Name="btnVegFruitSort" Content="Veg/Fruit" HorizontalAlignment="Left" Margin="238,37,0,0" VerticalAlignment="Top" Width="75" Click="btnVegFruitSort_Click" RenderTransformOrigin="-0.05,0.545" Visibility="Hidden"/>
+    </Grid>
+</Window>

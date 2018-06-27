@@ -1,0 +1,26 @@
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\bin\Debug\DontStarveRecipes.exe.config
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\bin\Debug\DontStarveRecipes.exe
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\bin\Debug\DontStarveRecipes.pdb
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\MainWindow.baml
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\MainWindow.g.cs
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\App.g.cs
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes_MarkupCompile.cache
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.g.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.Properties.Resources.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.csproj.GenerateResource.Cache
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.exe
+C:\Users\Joseph\documents\visual studio 2013\Projects\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.pdb
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\bin\Debug\DontStarveRecipes.exe.config
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\bin\Debug\DontStarveRecipes.exe
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\bin\Debug\DontStarveRecipes.pdb
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\MainWindow.baml
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\MainWindow.g.cs
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\App.g.cs
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes_MarkupCompile.cache
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.g.resources
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.Properties.Resources.resources
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.exe
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.pdb
+C:\Users\Joseph\Documents\My Games\DontStarveRecipes\DontStarveRecipes\obj\Debug\DontStarveRecipes.csprojResolveAssemblyReference.cache
